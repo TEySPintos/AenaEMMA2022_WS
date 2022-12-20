@@ -295,7 +295,7 @@ cuestionario.getTaus()+", "+
 cuestionario.getBustermi()+", "+
 "'"+cuestionario.getDropoff()+"', "+
 "'"+cuestionario.getEleccovid()+"', "+
-cuestionario.getValorexp()+"', "+
+cuestionario.getValorexp()+", "+
 "'"+cuestionario.getEmpresa()+"', "+
 "'"+cuestionario.getEmpresaotro()+"', "+
 "'"+cuestionario.getCdlocadootro()+"', "+
